@@ -62,11 +62,6 @@ applies to gems, seeds, herbs, ores, logs runes
 | :white_check_mark: | 5 | 1 Toa Unique, 1 Fedoras, 1 Spirit Shields, 1,067 Gems, 6  Malediction/Odium Shards | Chambers of Xeric |
 | :white_check_mark: | 6 | 1, Cox Unique, 6,969 Mist Runes, 2 Occult Necklaces, 1 Blood Shard, 5 Barrows Unique | Theatre of Blood |
 
-## 🗡️ Slayer Master
-*Allows you to get loot from monsters with slayer requirements*
-
-Not yet here! 
-
 # Skilling resource multipliers
 
 ## 🧵 Crafting Guild
