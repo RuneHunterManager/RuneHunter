@@ -99,7 +99,7 @@ Not yet here!
 | | 8 | 2250 Herbs |
 | | 9 | 1 Bottomless Compost Buckets |
 
-## 🌿 Herbalist's Hut
+## 🌿 Herblore Guild
 *Multiplies herb drops*
 
 | Unlocked | Level | Requirements |
@@ -114,7 +114,7 @@ Not yet here!
 |  | 8 | 4 Dragon Halberds |
 |  | 9 | 10,000 Seeds |
 
-## ⛏️ Prospector's Shop
+## ⛏️ Mining Guild
 *Multiplies ore drops*
 
 | Unlocked | Level | Requirements |
@@ -146,7 +146,7 @@ Not yet here!
 | | 9 | 1 Tome of Earth / Dragon hunter wand |
 
 
-## 🪓 Woodcutter's Lodge
+## 🪓 Woodcutting Guild
 *Multiplies log drops*
 
 | Unlocked | Level | Requirements |
@@ -166,21 +166,26 @@ Not yet here!
 
 Many upgrades require resource categories rather than specific items. Here are the main categories:
 
+NO PETS unfortunately :(
+
 - **Bones**: Any bone type
 - **Ores**: Coal, clay, and any ore (iron, gold, mithril, etc.)
 - **Seeds**: Any seed type
 - **Runes**: Any rune type
 - **Logs**: Any log type
-- **Gems**: Any gem
+- **Gems**: Any gem cut or uncut :^)
 - **Herbs**: Any herb, grimy or clean
-- **Bandos Uniques**: Bandos tassets, chestplate, hilt, or boots
+- **Barrows Equipment**: Any Barrows Equipment from the bruddahs 
 - **DKs Rings**: Archers, seers, warriors, or berserker rings
 - **Zulrah Uniques**: Any unique drop from Zulrah
 - **Cerberus Crystals**: Primordial, pegasian, or eternal crystals
+- **Doom Unique**: Avernic treads, Eye of ayak (uncharged), Mokhaiotl cloth
 - **ToA Purple**: Any purple reward from Tombs of Amascut
 - **CoX Purple**: Any purple reward from Chambers of Xeric
+- **Bandos Uniques**: Any unique drop from General GarageDoor
 - **Armadyl Uniques**: Any unique drop from Kree'arra
-- **Zamorak Uniques**: Any unique drop from K'ril Tsutsaroth
+- **Zamorak Uniques**: Any unique drop from K'ril Tittysaroth
+- **Saradomin Uniques**:Any unique drop from Commander Zillyana
 - **Araxxor Uniques**: Any unique drop from Araxxor
 - **Godsword Shards**: Any godsword shard
 - **Voidwaker Pieces**: Any piece of the Voidwaker
