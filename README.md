@@ -1,169 +1,192 @@
-General info
-In the ppp-bbw-future-gms channel in disc, type /upgrade_building ppp <building_name> to upgrade a building when we have the materials, can also be used to show which resources we need for any given building. <building_name> replaced with with the building name e.g. crafting_guild
+# General info
 
-Building Upgrade Guide
+To sign up please do /register  and type your RSN in ⁠general chat
+
+ When the Event starts you can do /combat and /skilling to see your team progress. you can do this in your team chats! 
+
+# Building Upgrade Guide
+
 This guide provides a detailed overview of all buildings in the game and their upgrade requirements. Each section covers one building, its function, and the resources needed for each level.
 
-multiplier first, flat bonus after applies to gems, seeds, herbs, ores, logs, coins & runes
+multiplier 
+applies to gems, seeds, herbs, ores, logs runes
 
-building level	multiplier	flat bonus
-1	1.0	0
-2	1.2	2
-3	1.5	4
-4	1.8	7
-5	2.2	12
-6	2.7	18
-7	3.3	25
-8	4.0	35
-9	5.0	50
-Combat related stuff
-🏰 Town Hall
-The main goal is to upgrade this building.
+| building level | multiplier |
+|----------------|------------|
+|        1       |    1.5     |   
+|        2       |    2.0     |   
+|        3       |    2.5     |    
+|        4       |    3.0     |    
+|        5       |    3.5     |   
+|        6       |    4.0     |   
+|        7       |    5.0     |  
+|        8       |    6.0     |  
+|        9       |    10.0    |   
 
-Unlocked	Level	Requirements
-✅	2	500 Bones, 100,000 Coins
-✅	3	4 Zenyte Shards, 2 Dragon Plateskirts
-✅	4	10 DKs Rings, 300 Iron Ore, 5,000 Runes
-✅	5	2 KBD Heads, 200 Runite Ore, 4,000 Yew Logs, 6 Awakener's Orbs
-✅	6	4 Bandos Uniques, 2,500 Magic Logs, 1,000 Iron Ore
-7	4 Zulrah Uniques, 2 Cerberus Crystals, 5,000 Gems, 10,000 Seeds, 1,000 Clay, 100,000 Coins, 10,000 Soul Runes, 2,500 Mithril Ore, 2 Venator Shards
-8	2 ToA Purple, 3 2 Araxxor Uniques, 5,000 Bones, 500 Crystal Shards, 3 Dragon Axes, 1,000,000 Coins, 20 Awakener's Orbs
-9	2 CoX Purple, 2 Zamorak Uniques, 10,000 Seeds, 2,500,000 Coins, 100,000 Ores, 10,000 Logs, 50 Vials of Blood
-⚔️ Armory
-Allows you to get drops from higher level monsters
+# Combat related stuff
 
-Unlocked	Level	Combat level unlocked	Requirements
-✅	2	100	10,000 Coins, 250 Ores, 500 Runes, 4 Bracelets of Ethereum, 2 Grapes
-✅	3	200	250 Herbs, 10 Larran's Keys, 500 Seeds, 2 Long Bones, 4 Mole Claws
-✅	4	300	500 Adamantite Bars, 100,000 Coins, 500 Gems, 6 Lunar Chest Uniques
-✅	5	400	20 Yew Seeds, 25 Brimstone Keys, 2 Ballista Springs, 2 Cheese
-✅	6	500	2 Colosseum Uniques, 100,000 Coins, 1 Kurask Head, 5,000 Logs, 2 Kraken Tentacles
-✅	7	600	2 Godsword Shards, 250,000 Coins, 1,000 Gems, 6,000 Ores, 100 Willow Logs
-✅	8	700	2 Armadyl Uniques, 10,000 Gems, 5 Giant Egg Sacs
-✅	9	9999+	2 Colosseum Uniques, 1,000,000 Coins, 2 Ancient Totems, 10 DKs Rings, 2 Granite Shields, 2 Granite Helms
-🏯 Garrisons
-Allows you to access drops from raids
+## 🏰 Hub Base
+*The main goal is to upgrade this building.*
 
-Unlocked	Level	Requirements	Unlocks
-✅	2	3 Leaf-bladed Items, 2 Blood Shards, 25 Bronze Bars	Lunar Chests
-✅	3	2 Granite Legs, 25 Rune Hastas, 5,000 Runes, 2 Sarachnis Cudgels	Fortis Colosseum
-✅	4	2 Unsireds, 2 Dragon Pickaxes, 2 Dragon Chainbodies, 20 Dragon Platelegs, 5 Dragon Med Helms, 10,000 Logs, 2 Shield Left Halfs	Tombs of Amascut
-✅	5	2 Fedoras, 2 Spirit Shields, 1,337 Gems, 10 Malediction/Odium Shards	Chambers of Xeric
-✅	6	1 Fedora, 6,969 Mist Runes, 5 Malediction/Odium Shards, 2 Occult Necklaces	Theatre of Blood
-🗡️ Slayer Master
-Allows you to get loot from monsters with slayer requirements
+| Unlocked | Level | Requirements |
+|----|-------|-------------|
+| :white_check_mark: | 1 | 250 Bones, 100,000 Coins |
+| :white_check_mark: | 2 | 2 Zenyte Shards, 2 Dragon Plateskirts, 250 Herbs |
+| :white_check_mark: | 3 | 6 DKs Rings, 200 Iron Ore, 5,000 Runes |
+| :white_check_mark: | 4 | 2 KBD Heads, 100 Runite Ore, 5,000 Logs, 4 Awakener's Orbs |
+| :white_check_mark: | 5 | 4 Bandos Uniques, 2,500 Magic Logs, 1,000 Iron Ore, 4 Zulrah Uniques, Perilous Moons Equipment, 100 Clay |
+| :white_check_mark: | 6 | 2 Cerberus Crystals, 5,000 Gems, 2 Zamorak Uniques, 2,000 Herbs, 200,000 Coins, 5,000 Soul Runes, 4,000 Ores, 50 Oathplate shards |
+| :white_check_mark: | 7 | 2 Venator Shards, 2 ToA Purple, 2 Araxxor Uniques, 2,000 Bones, 5,000 Logs, Godsword Shards 3, Nightmare Unique ?, Runes 10000 |
+| :white_check_mark:| 8 | 300 Crystal Shards, 2 Dragon Axe, 500,000 Coins 2 CoX Purple, 69 Vials of Blood, 2 Doom Uniques, 50,000 Ores, 100,000 Runes |
 
-Unlocked	Level	Slayer level	Requirements
-✅	2	70	100 Ores, 100 Bones, 5 Scaly Blue Dragonhides
-✅	3	75	2 Crawling Hands, 4 Tops of Sceptre
-✅	4	80	6 Elder Chaos Robes, 2 Long Bones, 10,000 Sunfire Splinters, 500 Red Spiders' Eggs
-✅	5	85	1,000 Adamant Javelins, 2 Dragon 2H Swords, 500 Gems, 50,000 Coins
-✅	6	87	1,000 Onyx Bolt Tips, 100,000 Coins, 1,000 Herbs, 2 ToA Purple
-✅	7	91	2 Tormented Demon Uniques, 2 Voidwaker Pieces, 10 Medium Clue Scrolls, 200,000 Coins
-✅	8	92	2 Saradomin's Lights, 300,000 Coins, 2 ToA Purple
-✅	9	99	300 Runite Bars, 500,000 Coins
-Skilling resource multipliers
-🧵 Crafting Guild
-Multiplies gem drops
+## ⚔️ Training Area
+*Allows you to get drops from higher level monsters*
 
-Unlocked	Level	Requirements
-✅	1	1,000 Coins, 500 Pure Essence
-✅	2	6 Scurrius' Spines
-✅	3	200 Blighted Manta Rays
-✅	4	2 Splitbark Bodies
-✅	5	50,000 Coins
-6	2 Tzhaar-ket-oms
-7	500 Dynamite
-8	2 Dragon Boots
-9	2 Any Quartz
-🌱 Farming Guild
-Multiplies seed drops
+| Unlocked | Level | Combat level unlocked | Requirements |
+|----|-------|-------------|-----------|
+| :white_check_mark: | 1 | 300 | 5 Barrows Equipment, 10,000 Coins, 4 Bracelet of ethereum (uncharged), 1 Grapes, 250 Ores, 500 Runes |
+| :white_check_mark: | 2 | 400 | 100 Mole Claws, 2 Long Bones, 200 Herbs, 2 Long Bones, 4 Mole Claws |
+| :white_check_mark: | 3 | 600 | 500 Adamantite Bars, 75,000 Coins, 3 Lunar Chest Uniques, 3 Giantsoul amulet, 1 Element staff crown piece, 5 Giant egg sac(full) |
+| :white_check_mark: | 4 | 700 | 1 Kree'arra Unique, 1500 Gems, 200,000 Coins, 1 Kraken Tentacle, 1 Commander Zilyana, 2,500 Ores |
+| :white_check_mark: | 5 | 9999 | 2 General Graardor Unique, 2 Colosseum Uniques, 4 Dks Rings, 9 Hueycoatl hide, 500,000 Coins, 2 Granite Helms |
 
-Unlocked	Level	Requirements
-✅	1	100 Runes, 50 Seeds, 1,000 Coins
-✅	2	100 Herbs, 25,000 Coins
-✅	3	2 Iron Halberds, 5,000 Body Runes
-✅	4	100,000 Coins
-✅	5	200,000 Coins
-✅	6	200 Mole Skins
-7	200 Lily of the Sands
-8	300,000 Coins
-9	2 Bottomless Compost Buckets
-🌿 Herbalist's Hut
-Multiplies herb drops
 
-Unlocked	Level	Requirements
-✅	1	100 Bones
-✅	2	2 Grimy Guams
-✅	3	5 Grimy Marrentills
-✅	4	2 Splitbark Legs
-5	25 Unidentified Small Fossils
-6	2 Crystal Keys
-7	2 Glacial Temotlis
-8	4 Dragon Halberds
-9	1,000 Guam Seeds
-⛏️ Prospector's Shop
-Multiplies ore drops
+## 🏯 Armoury
+*Allows you to access drops from raids*
 
-Unlocked	Level	Requirements
-✅	2	5 Sapphire Rings, 100 Blood Runes
-✅	3	100 Magic Logs
-✅	4	2 Ancient Staves
-✅	5	1,000 Gold Ore
-✅	6	100,000 Coins
-7	6 Rune Boots
-8	300,000 Coins
-9	500 Dragon Arrowtips
-✨ Rune Shop
-Multiplies rune drops
+| Unlocked | Level | Requirements | Unlocks |
+|-----|-------|-------------|---------|
+| :white_check_mark: | 2 | 2 Leaf-bladed Items, 1 Cow slippers, 10 Bronze Bars, 1 Mooleta | Lunar Chests |
+| :white_check_mark: | 3 | 10 Rune Hastas, 5,000 Runes, 2 Sarachnis Cudgels, 1 VoidWaker Pieces | Fortis Colosseum |
+| :white_check_mark: | 4 | 2 Unsireds, 2 Dragon Pickaxes, 1 Dragon Chainbodies, 3 Dragon Med Helms, 5,000 Logs, 1 Shield Left Halfs | Tombs of Amascut |
+| :white_check_mark: | 5 | 1 Toa Unique, 1 Fedoras, 1 Spirit Shields, 1,067 Gems, 6  Malediction/Odium Shards | Chambers of Xeric |
+| :white_check_mark: | 6 | 1, Cox Unique, 6,969 Mist Runes, 2 Occult Necklaces, 1 Blood Shard, 5 Barrows Unique | Theatre of Blood |
 
-Unlocked	Level	Requirements
-✅	1	50 Herbs
-✅	2	50 Steel Bars
-✅	3	123 Mahogany Logs
-✅	4	10 Zombie Pirate Keys
-✅	5	2 Sinister Keys
-✅	6	100 Mole Claws
-✅	7	2 Dark Claws
-8	2 Ancient Icons
-9	2 Hueycoatl Hides
-🪓 Woodcutter's Lodge
-Multiplies log drops
+## 🗡️ Slayer Master
+*Allows you to get loot from monsters with slayer requirements*
 
-Unlocked	Level	Requirements
-✅	1	10 Gems
-✅	2	750 Runes
-✅	3	1,000 Nature Runes
-✅	4	200 Oak Planks
-5	400 Mahogany Planks
-6	2 Berserker Rings
-7	2 Seers Rings
-8	2 Light Frames
-9	2 Aranea Boots
-Resource Categories
+Not yet here! 
+
+# Skilling resource multipliers
+
+## 🧵 Crafting Guild
+*Multiplies gem drops*
+
+| Unlocked | Level | Requirements |
+|-----|-------|-------------|
+| :white_check_mark: | 1 | 1,000 Coins, 500 Pure Essence |
+| :white_check_mark: | 2 | 4 Scurrius' Spines |
+| :white_check_mark: | 3 | 200 Fire orb |
+| :white_check_mark: | 4 | 2 Splitbark Bodies |
+| :white_check_mark: | 5 | 50,000 Coins |
+| | 6 | 1 Tzhaar-ket-oms |
+| | 7 | 2 Dragon Boots |
+| | 8 | 1000 Dynamite |
+| | 9 | 2 Any Quartz |
+
+## 🌱 Farming Guild
+*Multiplies seed drops*
+
+| Unlocked | Level | Requirements |
+|----|-------|-------------|
+| :white_check_mark: | 1 | 50 Seeds, 1,000 Coins |
+| :white_check_mark: | 2 | 100 Herbs, 25,000 Coins |
+| :white_check_mark: | 3 | 2 Iron Halberds, 5,000 Runes |
+| :white_check_mark: | 4 | 100,000 Coins |
+| :white_check_mark: | 5 | 750 Seeds |
+| :white_check_mark: | 6 | 100 Mole Skins |
+| | 7 | 69 Lily of the Sands |
+| | 8 | 2250 Herbs |
+| | 9 | 1 Bottomless Compost Buckets |
+
+## 🌿 Herbalist's Hut
+*Multiplies herb drops*
+
+| Unlocked | Level | Requirements |
+|----|-------|-------------|
+| :white_check_mark: | 1 | 100 Bones, 2 Grimy Guams |
+| :white_check_mark: | 2 | 5 Grimy Marrentills |
+| :white_check_mark: | 3 | 150 Marrentills |
+| :white_check_mark: | 4 | 2 Splitbark Legs |
+|  | 5 | 15 Unidentified Small Fossils |
+|  | 6 | 2 Crystal Keys |
+|  | 7 | 50000 Ancient essence |
+|  | 8 | 4 Dragon Halberds |
+|  | 9 | 10,000 Seeds |
+
+## ⛏️ Prospector's Shop
+*Multiplies ore drops*
+
+| Unlocked | Level | Requirements |
+|---|-------|-------------|
+| :white_check_mark: | 1 | 1 Sapphire Rings, 100 Blood Runes |
+| :white_check_mark: | 2 | 160 Coal |
+| :white_check_mark: | 3 | 1 Ancient Staves |
+| :white_check_mark: | 4 | 50,000 Coins |
+| :white_check_mark: | 5 | 1,000 Gold Ore |
+| | 6 | 75,00 Coins |
+| | 7 | 4 Rune Boots |
+| | 8 | 2 Steel ring |
+| | 8 | 2500 Dragon Arrowtips |
+
+
+## ✨ Runecraft Guild
+*Multiplies rune drops*
+
+| Unlocked | Level | Requirements |
+|---|-------|-------------|
+| :white_check_mark: | 1 | 50 Runes |
+| :white_check_mark: | 2 | 50 Steel Bars |
+| :white_check_mark: | 3 | 123 Mahogany Logs |
+| :white_check_mark: | 4 | 2 Sinister Keys |
+| :white_check_mark: | 5 | 67 Desiccated page |
+| :white_check_mark: | 6 | 1 Dark Claws |
+| :white_check_mark: | 7 | 2 Ancient Icon |
+| | 8 | 4 Blood essence |
+| | 9 | 1 Tome of Earth / Dragon hunter wand |
+
+
+## 🪓 Woodcutter's Lodge
+*Multiplies log drops*
+
+| Unlocked | Level | Requirements |
+|---|------|-------------|
+| :white_check_mark: | 1 | 10 Logs |
+| :white_check_mark: | 2 | 750 Runes |
+| :white_check_mark: | 3 | 100 Oak Planks |
+| :white_check_mark: | 4 | 200 Mahogany Planks |
+| | 5 | 1 Berserker Rings  |
+| | 6 | 120 Demon tear |
+| | 7 | 1 Zombie Axe |
+| | 8 | 2 Light Frames |
+| | 9 | 1 Crystal Tool Seed |
+
+
+## Resource Categories
+
 Many upgrades require resource categories rather than specific items. Here are the main categories:
 
-Bones: Any bone type
-Ores: Coal, clay, and any ore (iron, gold, mithril, etc.)
-Seeds: Any seed type
-Runes: Any rune type
-Logs: Any log type
-Gems: Any gem
-Herbs: Any herb, grimy or clean
-Bandos Uniques: Bandos tassets, chestplate, hilt, or boots
-DKs Rings: Archers, seers, warriors, or berserker rings
-Zulrah Uniques: Any unique drop from Zulrah
-Cerberus Crystals: Primordial, pegasian, or eternal crystals
-ToA Purple: Any purple reward from Tombs of Amascut
-CoX Purple: Any purple reward from Chambers of Xeric
-Armadyl Uniques: Any unique drop from Kree'arra
-Zamorak Uniques: Any unique drop from K'ril Tsutsaroth
-Araxxor Uniques: Any unique drop from Araxxor
-Godsword Shards: Any godsword shard
-Voidwaker Pieces: Any piece of the Voidwaker
-Colosseum Uniques: Any unique from Fortis Colosseum
-Lunar Chest Uniques: Any unique from Lunar Chests
-Leaf-bladed Items: Any leaf-bladed weapon or armor
-Elder Chaos Robes: Any piece of the elder chaos robes set
-Malediction/Odium Shards: Any shard for these shields
-Any Quartz: Any type of quartz
+- **Bones**: Any bone type
+- **Ores**: Coal, clay, and any ore (iron, gold, mithril, etc.)
+- **Seeds**: Any seed type
+- **Runes**: Any rune type
+- **Logs**: Any log type
+- **Gems**: Any gem
+- **Herbs**: Any herb, grimy or clean
+- **Bandos Uniques**: Bandos tassets, chestplate, hilt, or boots
+- **DKs Rings**: Archers, seers, warriors, or berserker rings
+- **Zulrah Uniques**: Any unique drop from Zulrah
+- **Cerberus Crystals**: Primordial, pegasian, or eternal crystals
+- **ToA Purple**: Any purple reward from Tombs of Amascut
+- **CoX Purple**: Any purple reward from Chambers of Xeric
+- **Armadyl Uniques**: Any unique drop from Kree'arra
+- **Zamorak Uniques**: Any unique drop from K'ril Tsutsaroth
+- **Araxxor Uniques**: Any unique drop from Araxxor
+- **Godsword Shards**: Any godsword shard
+- **Voidwaker Pieces**: Any piece of the Voidwaker
+- **Colosseum Uniques**: Any unique from Fortis Colosseum
+- **Lunar Chest Uniques**: Any unique from Lunar Chests
+- **Leaf-bladed Items**: Any leaf-bladed weapon or armor
+- **Elder Chaos Robes**: Any piece of the elder chaos robes set
+- **Malediction/Odium Shards**: Any shard for these shields
+- **Any Quartz**: Any type of quartz
