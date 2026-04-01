@@ -31,23 +31,23 @@ applies to gems, seeds, herbs, ores, logs runes
 | Unlocked | Level | Requirements |
 |----|-------|-------------|
 | :white_check_mark: | 1 | 250 Bones, 100,000 Coins |
-| :white_check_mark: | 2 | 2 Zenyte Shards, 2 Dragon Plateskirts, 250 Herbs |
+| :white_check_mark: | 2 | 1 Zenyte Shards, 2 Dragon Plateskirts, 250 Herbs |
 | :white_check_mark: | 3 | 6 DKs Rings, 200 Iron Ore, 5,000 Runes |
 | :white_check_mark: | 4 | 2 KBD Heads, 100 Runite Ore, 5,000 Logs, 4 Awakener's Orbs |
 | :white_check_mark: | 5 | 4 Bandos Uniques, 2,500 Magic Logs, 1,000 Iron Ore, 4 Zulrah Uniques, Perilous Moons Equipment, 100 Clay |
-| :white_check_mark: | 6 | 2 Cerberus Crystals, 5,000 Gems, 2 Zamorak Uniques, 2,000 Herbs, 200,000 Coins, 5,000 Soul Runes, 4,000 Ores, 1 Colosseum Uniques |
+| :white_check_mark: | 6 | 2 Cerberus Crystals, 1,000 Gems, 2 Zamorak Uniques, 2,000 Herbs, 200,000 Coins, 5,000 Soul Runes, 4,000 Ores, 1 Colosseum Uniques |
 | :white_check_mark: | 7 | 2 Venator Shards, 2 ToA Purple, 2 Araxxor Uniques, 2,000 Bones, 5,000 Logs, Godsword Shards 3, 23 Oathplate shards, Runes 10000 |
-| :white_check_mark:| 8 | 1 Soulreaper Axe piece, 2 Dragon Axe, 500,000 Coins 2 CoX Purple, 69 Vials of Blood, 2 Doom Uniques, 50,000 Ores, 100,000 Runes |
+| :white_check_mark:| 8 | 1 Soulreaper Axe piece, 2 Dragon Axe, 500,000 Coins 2 CoX Purple, 39 Vials of Blood, 2 Doom Uniques, 50,000 Ores, 100,000 Runes |
 
 ## ⚔️ Training Area
 *Allows you to get drops from higher level monsters*
 
 | Unlocked | Level | Combat level unlocked | Requirements |
 |----|-------|-------------|-----------|
-| :white_check_mark: | 1 | 300 | 5 Barrows Equipment, 10,000 Coins, 4 Bracelet of ethereum (uncharged), 1 Grapes, 250 Ores, 500 Runes |
-| :white_check_mark: | 2 | 400 | 100 Mole Claws, 2 Long Bones, 200 Herbs, 2 Long Bones, 4 Mole Claws |
+| :white_check_mark: | 1 | 300 | 3 Barrows Equipment, 10,000 Coins, 4 Bracelet of ethereum (uncharged), 1 Grapes, 250 Ores, 500 Runes |
+| :white_check_mark: | 2 | 400 | 100 Mole Claws, 2 Long Bones, 200 Herbs, 2 Long Bones, 1 Glacial temotli, 2 Pendant of ates  |
 | :white_check_mark: | 3 | 600 | 500 Adamantite Bars, 75,000 Coins, 3 Lunar Chest Uniques, 3 Giantsoul amulet, 1 Element staff crown piece, 5 Giant egg sac(full) |
-| :white_check_mark: | 4 | 700 | 1 Kree'arra Unique, 1500 Gems, 200,000 Coins, 1 Kraken Tentacle, 1 Commander Zilyana, 2,500 Ores |
+| :white_check_mark: | 4 | 700 | 1 Kree'arra Unique, 1500 Gems, 150,000 Coins, 1 Kraken Tentacle, 1 Commander Zilyana, 2,500 Ores |
 | :white_check_mark: | 5 | 9999 | 2 General Graardor Unique, 2 Colosseum Uniques, 4 Dks Rings, 9 Hueycoatl hide, 500,000 Coins, 2 Granite Helms |
 
 
@@ -56,9 +56,9 @@ applies to gems, seeds, herbs, ores, logs runes
 
 | Unlocked | Level | Requirements | Unlocks |
 |-----|-------|-------------|---------|
-| :white_check_mark: | 2 | 2 Leaf-bladed Items, 1 Cow slippers, 10 Bronze Bars, 1 Mooleta | Lunar Chests |
+| :white_check_mark: | 2 | 1 Leaf-bladed Items, 1 Cow slippers, 10 Bronze Bars, 1 Mooleta | Lunar Chests |
 | :white_check_mark: | 3 | 10 Rune Hastas, 5,000 Runes, 2 Sarachnis Cudgels, 1 VoidWaker Pieces | Fortis Colosseum |
-| :white_check_mark: | 4 | 2 Unsireds, 2 Dragon Pickaxes, 1 Dragon Chainbodies, 3 Dragon Med Helms, 5,000 Logs, 1 Shield Left Halfs | Tombs of Amascut |
+| :white_check_mark: | 4 | 2 Unsireds, 1 Dragon Pickaxes, 1 Dragon Chainbodies, 3 Dragon Med Helms, 5,000 Logs, 1 Shield Left Halfs | Tombs of Amascut |
 | :white_check_mark: | 5 | 1 Toa Unique, 1 Fedoras, 1 Spirit Shields, 1,067 Gems, 6  Malediction/Odium Shards | Chambers of Xeric |
 | :white_check_mark: | 6 | 1, Cox Unique, 6,969 Mist Runes, 2 Occult Necklaces, 1 Blood Shard, 5 Barrows Unique | Theatre of Blood |
 
