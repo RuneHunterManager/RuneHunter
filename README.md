@@ -35,9 +35,9 @@ applies to gems, seeds, herbs, ores, logs runes
 | :white_check_mark: | 3 | 6 DKs Rings, 200 Iron Ore, 5,000 Runes |
 | :white_check_mark: | 4 | 2 KBD Heads, 100 Runite Ore, 5,000 Logs, 4 Awakener's Orbs |
 | :white_check_mark: | 5 | 4 Bandos Uniques, 2,500 Magic Logs, 1,000 Iron Ore, 4 Zulrah Uniques, Perilous Moons Equipment, 100 Clay |
-| :white_check_mark: | 6 | 2 Cerberus Crystals, 5,000 Gems, 2 Zamorak Uniques, 2,000 Herbs, 200,000 Coins, 5,000 Soul Runes, 4,000 Ores, 50 Oathplate shards |
-| :white_check_mark: | 7 | 2 Venator Shards, 2 ToA Purple, 2 Araxxor Uniques, 2,000 Bones, 5,000 Logs, Godsword Shards 3, Nightmare Unique ?, Runes 10000 |
-| :white_check_mark:| 8 | 300 Crystal Shards, 2 Dragon Axe, 500,000 Coins 2 CoX Purple, 69 Vials of Blood, 2 Doom Uniques, 50,000 Ores, 100,000 Runes |
+| :white_check_mark: | 6 | 2 Cerberus Crystals, 5,000 Gems, 2 Zamorak Uniques, 2,000 Herbs, 200,000 Coins, 5,000 Soul Runes, 4,000 Ores, 1 Colosseum Uniques |
+| :white_check_mark: | 7 | 2 Venator Shards, 2 ToA Purple, 2 Araxxor Uniques, 2,000 Bones, 5,000 Logs, Godsword Shards 3, 23 Oathplate shards, Runes 10000 |
+| :white_check_mark:| 8 | 1 Soulreaper Axe piece, 2 Dragon Axe, 500,000 Coins 2 CoX Purple, 69 Vials of Blood, 2 Doom Uniques, 50,000 Ores, 100,000 Runes |
 
 ## ⚔️ Training Area
 *Allows you to get drops from higher level monsters*
