@@ -50,7 +50,7 @@ This guide provides a detailed overview of all buildings in the game and their u
 # Skilling resource multipliers
 
 multiplier 
-applies to gems, seeds, herbs, ores, logs runes
+applies to gems, seeds, herbs, ores, logs and runes
 
 | building level | multiplier |
 |----------------|------------|
