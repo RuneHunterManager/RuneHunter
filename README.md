@@ -8,21 +8,6 @@ To sign up please do /register  and type your RSN in ⁠general chat
 
 This guide provides a detailed overview of all buildings in the game and their upgrade requirements. Each section covers one building, its function, and the resources needed for each level.
 
-multiplier 
-applies to gems, seeds, herbs, ores, logs runes
-
-| building level | multiplier |
-|----------------|------------|
-|        1       |    1.5     |   
-|        2       |    2.0     |   
-|        3       |    2.5     |    
-|        4       |    3.0     |    
-|        5       |    3.5     |   
-|        6       |    4.0     |   
-|        7       |    5.0     |  
-|        8       |    6.0     |  
-|        9       |    10.0    |   
-
 # Combat related stuff
 
 ## 🏰 Hub Base
@@ -63,6 +48,21 @@ applies to gems, seeds, herbs, ores, logs runes
 | :white_check_mark: | 6 | 1, Cox Unique, 6,969 Mist Runes, 2 Occult Necklaces, 1 Blood Shard, 5 Barrows Unique | Theatre of Blood |
 
 # Skilling resource multipliers
+
+multiplier 
+applies to gems, seeds, herbs, ores, logs runes
+
+| building level | multiplier |
+|----------------|------------|
+|        1       |    1.5     |   
+|        2       |    2.0     |   
+|        3       |    2.5     |    
+|        4       |    3.0     |    
+|        5       |    3.5     |   
+|        6       |    4.0     |   
+|        7       |    5.0     |  
+|        8       |    6.0     |  
+|        9       |    10.0    |   
 
 ## 🧵 Crafting Guild
 *Multiplies gem drops*
