@@ -101,7 +101,7 @@ applies to gems, seeds, herbs, ores, logs and runes
 |----|-------|-------------|
 | :white_check_mark: | 1 | 100 Bones, 2 Grimy Guams |
 | :white_check_mark: | 2 | 5 Grimy Marrentills |
-| :white_check_mark: | 3 | 150 Marrentills |
+| :white_check_mark: | 3 | 150 Herbs |
 | :white_check_mark: | 4 | 2 Splitbark Legs |
 |  | 5 | 15 Unidentified Small Fossils |
 |  | 6 | 2 Crystal Keys |
