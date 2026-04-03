@@ -15,7 +15,7 @@ This guide provides a detailed overview of all buildings in the game and their u
 
 | Unlocked | Level | Requirements |
 |----|-------|-------------|
-| :white_check_mark: | 1 | 250 Bones, 100,000 Coins |
+| :white_check_mark: | 1 | 250 Bones, 10,000 Coins |
 | :white_check_mark: | 2 | 1 Zenyte Shards, 2 Dragon Plateskirts, 250 Herbs |
 | :white_check_mark: | 3 | 6 DKs Rings, 200 Iron Ore, 5,000 Runes |
 | :white_check_mark: | 4 | 2 KBD Heads, 100 Runite Ore, 5,000 Logs, 4 Awakener's Orbs |
