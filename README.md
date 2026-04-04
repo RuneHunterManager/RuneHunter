@@ -44,7 +44,7 @@ This guide provides a detailed overview of all buildings in the game and their u
 | :white_check_mark: | 1| 1 Leaf-bladed Items, 1 Cow slippers, 10 Bronze Bars, 1 Mooleta | Lunar Chests |
 | :white_check_mark: | 2 | 10 Rune Hastas, 5,000 Runes, 2 Sarachnis Cudgels, 1 VoidWaker Pieces | Fortis Colosseum |
 | :white_check_mark: | 3 | 1 Unsireds, 1 Dragon Pickaxes, 1 Dragon Chainbodies, 3 Dragon Med Helms, 5,000 Logs, 1 Shield Left Halfs | Tombs of Amascut |
-| :white_check_mark: | 4 | 1 Toa Unique, 1 Fedoras, 1 Spirit Shields, 1,067 Gems, 6  Malediction/Odium Shards | Chambers of Xeric |
+| :white_check_mark: | 4 | 1 Toa Unique, 1 Fedoras, 1 Spirit Shields, 1,067 Gems, 3  Malediction/Odium Shards | Chambers of Xeric |
 | :white_check_mark: | 5 | 1, Cox Unique, 6,969 Mist Runes, 1 Occult Necklaces, 1 Blood Shard, 5 Barrows Unique | Theatre of Blood |
 
 # Skilling resource multipliers
