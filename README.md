@@ -19,8 +19,8 @@ This guide provides a detailed overview of all buildings in the game and their u
 | :white_check_mark: | 2 | 1 Zenyte Shards, 2 Dragon Plateskirts, 250 Herbs |
 | :white_check_mark: | 3 | 6 DKs Rings, 200 Iron Ore, 5,000 Runes |
 | :white_check_mark: | 4 | 2 KBD Heads, 100 Runite Ore, 5,000 Logs, 2 Awakener's Orbs |
-| :white_check_mark: | 5 | 1 Bandos Uniques, 2,500 Magic Logs, 1,000 Iron Ore, 2 Zulrah Uniques, 1 Perilous Moons Equipment, 100 Clay |
-| :white_check_mark: | 6 | 1 Cerberus Crystals, 1,000 Gems, 2 Zamorak Uniques, 2,000 Herbs, 200,000 Coins, 5,000 Soul Runes, 4,000 Ores, 1 Colosseum Uniques |
+| :white_check_mark: | 5 | 1 General Graardor Unique, 2,500 Magic Logs, 1,000 Iron Ore, 2 Zulrah Uniques, 1 Perilous Moons Equipment, 100 Clay |
+| :white_check_mark: | 6 | 1 Cerberus Crystals, 1,000 Gems, 2 Kril Uniques, 2,000 Herbs, 200,000 Coins, 5,000 Soul Runes, 4,000 Ores, 1 Colosseum Uniques |
 | :white_check_mark: | 7 | 1 Venator Shards, 1 ToA Purple, 1 Araxxor Uniques, 2,000 Bones, 4,000 Logs, 3 Godsword Shards , 23 Oathplate shards, Runes 10000 |
 | :white_check_mark:| 8 | 1 Soulreaper Axe piece, 1 Dragon Axe, 500,000 Coins 2 CoX Purple, 39 Vials of Blood, 2 Doom Uniques, 50,000 Ores, 100,000 Runes |
 
