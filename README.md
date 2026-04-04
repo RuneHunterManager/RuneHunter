@@ -45,7 +45,7 @@ This guide provides a detailed overview of all buildings in the game and their u
 | :white_check_mark: | 2 | 10 Rune Hastas, 5,000 Runes, 2 Sarachnis Cudgels, 1 VoidWaker Pieces | Fortis Colosseum |
 | :white_check_mark: | 3 | 1 Unsireds, 1 Dragon Pickaxes, 1 Dragon Chainbodies, 3 Dragon Med Helms, 5,000 Logs, 1 Shield Left Halfs | Tombs of Amascut |
 | :white_check_mark: | 4 | 1 Toa Unique, 1 Fedoras, 1 Spirit Shields, 1,067 Gems, 6  Malediction/Odium Shards | Chambers of Xeric |
-| :white_check_mark: | 5 | 1, Cox Unique, 6,969 Mist Runes, 2 Occult Necklaces, 1 Blood Shard, 5 Barrows Unique | Theatre of Blood |
+| :white_check_mark: | 5 | 1, Cox Unique, 6,969 Mist Runes, 1 Occult Necklaces, 1 Blood Shard, 5 Barrows Unique | Theatre of Blood |
 
 # Skilling resource multipliers
 
@@ -71,7 +71,7 @@ applies to gems, seeds, herbs, ores, logs and runes
 |-----|-------|-------------|
 | :white_check_mark: | 1 | 1,000 Coins, 500 Pure Essence |
 | :white_check_mark: | 2 | 4 Scurrius' Spines |
-| :white_check_mark: | 3 | 200 Fire orb |
+| :white_check_mark: | 3 | 100 Water orb |
 | :white_check_mark: | 4 | 2 Splitbark Bodies |
 | :white_check_mark: | 5 | 50,000 Coins |
 | | 6 | 1 Tzhaar-ket-oms |
@@ -106,7 +106,7 @@ applies to gems, seeds, herbs, ores, logs and runes
 |  | 5 | 15 Unidentified Small Fossils |
 |  | 6 | 2 Crystal Keys |
 |  | 7 | 50000 Ancient essence |
-|  | 8 | 4 Dragon Halberds |
+|  | 8 | 35 Nihil shard |
 |  | 9 | 10,000 Seeds |
 
 ## ⛏️ Mining Guild
@@ -135,7 +135,7 @@ applies to gems, seeds, herbs, ores, logs and runes
 | :white_check_mark: | 3 | 123 Mahogany Logs |
 | :white_check_mark: | 4 | 2 Sinister Keys |
 | :white_check_mark: | 5 | 67 Desiccated page |
-| :white_check_mark: | 6 | 1 Dark Claws |
+| :white_check_mark: | 6 | 7,500 Runes |
 | :white_check_mark: | 7 | 2 Ancient Icon |
 | | 8 | 4 Blood essence |
 | | 9 | 1 Tome of Earth / Dragon hunter wand |
@@ -149,7 +149,7 @@ applies to gems, seeds, herbs, ores, logs and runes
 | :white_check_mark: | 1 | 10 Logs |
 | :white_check_mark: | 2 | 750 Runes |
 | :white_check_mark: | 3 | 100 Oak Planks |
-| :white_check_mark: | 4 | 200 Mahogany Planks |
+| :white_check_mark: | 4 | 100 Mahogany Planks |
 | | 5 | 1 Berserker Rings  |
 | | 6 | 120 Demon tear |
 | | 7 | 1 Zombie Axe |
