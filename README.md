@@ -32,7 +32,7 @@ This guide provides a detailed overview of all buildings in the game and their u
 | :white_check_mark: | 1 | 300 | 3 Barrows Equipment, 10,000 Coins, 4 Bracelet of ethereum (uncharged), 1 Grapes, 250 Ores, 500 Runes |
 | :white_check_mark: | 2 | 400 | 100 Mole Claws, 2 Long Bones, 250 Herbs, 250 Seeds, 2 Long Bones, 1 Glacial temotli, 2 Pendant of ates  |
 | :white_check_mark: | 3 | 600 | 500 Adamantite Bars, 75,000 Coins, 3 Lunar Chest Uniques, 3 Giantsoul amulet, 1 Element staff crown piece, 5 Giant egg sac(full) |
-| :white_check_mark: | 4 | 700 | 1 Kree'arra Unique, 1500 Gems, 150,000 Coins, 1 Kraken Tentacle, 1 Commander Zilyana, 2,500 Ores |
+| :white_check_mark: | 4 | 800 | 1 Kree'arra Unique, 1500 Gems, 150,000 Coins, 1 Kraken Tentacle, 1 Commander Zilyana, 2,500 Ores |
 | :white_check_mark: | 5 | 9999 | 2 General Graardor Unique, 2 Colosseum Uniques, 4 Dks Rings, 9 Hueycoatl hide, 500,000 Coins, 2 Granite Helms |
 
 
